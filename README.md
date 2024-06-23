@@ -1,3 +1,1 @@
-# Github-Travel
-Hello!Github!
-#计算机个人学习路径
+# Github-My cs self-learning travel!
